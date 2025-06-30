@@ -1,5 +1,3 @@
-<!--
-
 # 👋 Hi, I'm Mani Tejeswar
 
 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning) Student at Woxsen University  
@@ -43,5 +41,3 @@ Currently learning about **MLOps, Cloud AI**, and **Advanced NLP**.
 - **LinkedIn:** [linkedin.com/in/mani-tejeswar](https://www.linkedin.com/in/mani-tejeswar-reddy-avula/)  
 - **GitHub:** [github.com/Mani-Tejeswar](https://github.com/Mani-Tejeswar)  
 - **Email:** [manitejeswarreddy162004@gmail.com](mailto:manitejeswarreddy162004@gmail.com)
-.
--->
