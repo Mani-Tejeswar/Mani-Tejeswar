@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mani Tejeswar
 
-🎓 B.Tech CSE (Artificial Intelligence & Machine Learning) Student at Woxsen University  
+🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)  at Woxsen University  
 🤖 Passionate about building intelligent systems using AI, ML, and Deep Learning  
 🔍 Exploring real-world solutions through computer vision and predictive analytics
 
